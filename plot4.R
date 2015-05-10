@@ -1,5 +1,5 @@
 #
-# Plot No. 4 (Grid Chart)
+# Plot No. 4 (Multi-Chart Grid)
 #
 #Needed Library
 library(dplyr)
